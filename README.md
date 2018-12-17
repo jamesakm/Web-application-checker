@@ -23,14 +23,14 @@ argparse
 
 Once you have installed Python 3.x version, you can install the modules using 'pip' - package management system used to install and manage software packages written in Python.
 
-# pip install <package>
+    # pip install <package>
 
-# pip3 install <package>
+    # pip3 install <package>
   
   
 You should have WAD Python module installed for this script.
 
-# pip install wad
+    # pip install wad
 
 
 
