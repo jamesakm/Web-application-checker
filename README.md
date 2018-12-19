@@ -1,4 +1,4 @@
-# Web-application-checker
+# Web application checker using Python
 Simple Web application checker using Python
 
  ./web_app_check.py -h
