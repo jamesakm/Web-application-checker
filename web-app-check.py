@@ -4,7 +4,6 @@ import subprocess
 import argparse
 
 # Fun to check the applications
-
 def web_app_check(domain):
   print(subprocess.call('/usr/bin/wad -u' +  domain, shell=True))
   return
